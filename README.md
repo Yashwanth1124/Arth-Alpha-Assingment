@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ArthAlpha-Assingment
 
 # Text Manipulation Tool
@@ -49,3 +50,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Acknowledgments
 This application was built using React.js and demonstrates practical applications of state management and user interaction.
+=======
+# Arth-Alpha-Assingment
+>>>>>>> abac85b1425761aea50b3b089c4290daec3734f5
